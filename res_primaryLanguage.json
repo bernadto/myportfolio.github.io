@@ -1,10 +1,10 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "I'm Bernadto.",
+      "description": "I'm a Data Analyst, Web Developer, Artificial Intelligence Engineer and IT Consultant. I have a personal philosophy in life: 'Life isn't about waiting for the strom to pass but it's about learning to dance in the rain'",
       "section_name": {
         "about": "About me",
-        "projects": "Projects",
+        "projects": "Project and Achievement",
         "skills": "Skills",
         "experience": "Experience"
       }
@@ -36,12 +36,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "Coming soon",
+        "startDate": "0000",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2.png"
         ],
         "url": "https://github.com",
         "technologies": [
